@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-api",
   "version": "1.0.0",
+  "Type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
