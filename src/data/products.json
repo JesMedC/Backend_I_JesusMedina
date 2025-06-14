@@ -1,0 +1,15 @@
+[
+  {
+    "id": "b230fcd2-40b4-4c32-b9ae-d0d7c5e4dcc3",
+    "title": "Zapatos",
+    "description": "Zapatos de cuero negro",
+    "code": "ZAP001",
+    "price": 29990,
+    "status": true,
+    "stock": 100,
+    "category": "calzado",
+    "thumbnails": [
+      "img/zapatos1.jpg"
+    ]
+  }
+]
